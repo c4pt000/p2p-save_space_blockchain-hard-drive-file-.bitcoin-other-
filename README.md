@@ -1,6 +1,6 @@
 # p2p-save_space_blockchain-hard-drive-file-.bitcoin-other-
 
-instead of downloading the blockchain data locally to the drive
+instead of downloading the blockchain data locally to the drive ( AS A GIGANTIC DATASTORE of 250GB)
 
 use a p2p model of socket to socket file i/o with a local cache of 300-500mb
 
