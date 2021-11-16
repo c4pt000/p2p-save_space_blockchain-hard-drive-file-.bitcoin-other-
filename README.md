@@ -1,4 +1,4 @@
-# p2p-save_space_blockchain-hard-drive-file-.bitcoin-other-
+#  p2p-save_space_blockchain-hard-drive-file-.bitcoin-other-
 
 instead of downloading the blockchain data locally to the drive ( AS A GIGANTIC DATASTORE of 250GB)
 
